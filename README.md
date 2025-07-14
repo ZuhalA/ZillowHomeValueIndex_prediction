@@ -4,6 +4,8 @@
 This project explores trends in U.S. housing prices using the **Zillow Home Value Index (ZHVI)** dataset (2000–2025). It includes data cleaning, time-series analysis, SQL queries, and predictive modeling to understand how home values change over time and across regions.
 
 Dataset Downloading Link: https://files.zillowstatic.com/research/public_csvs/zhvi/Metro_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv?t=1751495532
+
+
 ---
 
 ## Project Summary
