@@ -5,4 +5,4 @@ seaborn
 plotly
 scikit-learn
 geopy
-sqlite3
+sqlite3 (SQL)
